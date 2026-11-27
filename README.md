@@ -4,8 +4,6 @@ This repository contains my learning journey of **Data Structures and Algorithms
 
 ## Topics Covered
 - Introduction to DSA
-- Array
-- String
 - Searching Algorithms
 - Sorting Algorithms
 - Recursion
