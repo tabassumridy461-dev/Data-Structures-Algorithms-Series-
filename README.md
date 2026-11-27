@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (C)
+# Data Structures and Algorithms
 
 This repository contains my learning journey of **Data Structures and Algorithms using C**.
 
@@ -31,7 +31,7 @@ This repository is continuously updated as I learn and practice new DSA concepts
 
 ## 👩‍💻 Author
 
-**Tabassum Islam**
+**Tabassum Ridy**
 
 - GitHub: [@tabassumridy461-dev](https://github.com/tabassumridy461-dev)
 - LinkedIn: [Tabassum Ridy](https://www.linkedin.com/in/tabassum-ridy-dev/)
